@@ -40,6 +40,6 @@ variable "allowed_cidr" {
     default = ["0.0.0.0/0"]
 }
 
-variable "intance_name"{
-    default = 
+variable "instance_name"{
+    default = "db"
 }
